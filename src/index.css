@@ -1,0 +1,16 @@
+ul li {
+    list-style: none;
+}
+.fl {
+    float: left;
+}
+.flex {
+    display: flex;
+}
+.f-1{
+    flex: 1;
+}
+
+.ofh {
+    overflow: hidden;
+}
